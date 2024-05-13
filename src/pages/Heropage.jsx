@@ -7,7 +7,7 @@ function Heropage(props) {
       <div className=" w-full fixed top-0 z-20">
         <Navbar />
       </div>
-      <div className="py-5 lg:py-10">
+      <div className="pt-5 lg:pt-10">
         <HeroPage />
       </div>
     </>
