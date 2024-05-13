@@ -7,6 +7,7 @@ export default {
         Tcolor: "#F6EDD8",
         navcolor: "#7AC0C0",
         Tcolor2: "#383A3C",
+        Ecolor: "#e68966"
       },
     },
     plugins: [],
